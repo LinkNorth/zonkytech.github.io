@@ -1,4 +1,4 @@
-# Zonkytech
+# ZonkyTech
 
-* [Official blog](https://blog.zonkytech.com/)
+* [Blog](https://blog.zonkytech.com/)
 * [Twitter](https://twitter.com/zonkytech)
